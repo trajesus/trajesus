@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 🏢 Researcher at [Centro ALGORITMI](https://algoritmi.uminho.pt)
 - 🔬 Interested in medical 3D printing, medical imaging, image segmentation, and interactive medical education
 - 💻 Key Tools: Python, 3D Slicer, Markdown, GitHub, Mendeley, LaTeX
-- 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=YOURSCHOLARID), [Mendeley](https://www.mendeley.com)
+- 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=dD-jFFgAAAAJ&hl=pt-PT), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=25625989400)
 <!-- - 🌐 Personal website: [trajesus.com](https://trajesus.com) --> 
 
 ---
