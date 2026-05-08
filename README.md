@@ -19,14 +19,26 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">Hi there 👋, I'm Tiago Jesus</h1>
-<h3 align="center">Biomedical Engineer | PhD Candidate @ University of Minho | Researcher @ Centro ALGORITMI</h3>
+<h2 align="center">🧠 AI/ML Engineer · Medical Imaging · MONAI Developer</h2>
+<h4 align="center">PhD Candidate @ Universidade do Minho · Researcher @ Centro ALGORITMI & ICVS</h4>
 
 <div align="center">
-  <a href="https://orcid.org/0000-0003-1437-5439">
-    <img src="https://img.shields.io/badge/ORCID-0000--0003--1437--5439-lightgreen?style=flat-square&logo=orcid">
-  </a>
+
+🏆 **BraTS 2024** — 🥇 Task 1 (Adult Glioma Post-Treatment) · 🥉 Task 3  
+🏆 **MICCAI Open Suturing Skills Challenge 2025** — 🥈 Task 2 · 🎖️ Task 3  
+📚 **8+ peer-reviewed publications** (Springer · Neurobiology of Aging · Neuroscience)
+
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/trajesus">
     <img src="https://img.shields.io/badge/LinkedIn-Tiago%20Jesus-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://scholar.google.com/citations?user=dD-jFFgAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar">
+  </a>
+  <a href="https://orcid.org/0000-0003-1437-5439">
+    <img src="https://img.shields.io/badge/ORCID-0000--0003--1437--5439-lightgreen?style=flat-square&logo=orcid">
   </a>
 </div>
 
@@ -34,11 +46,12 @@ Here are some ideas to get you started:
 
 ## 🧑‍🔬 About Me
 
-- 🇵🇹 Based in Portugal
-- 👨‍🎓 PhD Candidate in Biomedical Engineering
-- 🏢 Researcher at [Centro ALGORITMI](https://algoritmi.uminho.pt)
+- 🇵🇹 Based in Portugal (Madeira)
+- 👨‍🎓 PhD Candidate in Biomedical Engineering @ Universidade do Minho
+- 🧬 Researcher @ [ICVS – School of Medicine](https://www.icvs.uminho.pt) (neuroimaging & Alzheimer's) and [Centro ALGORITMI](https://algoritmi.uminho.pt) (AI/ML)
+- 🤖 Core stack: **MONAI · PyTorch · Python · UNet · NIfTI/DICOM**
+- 🎯 Open to: AI/ML Engineer · Medical Imaging Researcher · MONAI Developer roles
 - 🔬 Interested in medical 3D printing, medical imaging, image segmentation, and interactive medical education
-- 💻 Key Tools: Python, 3D Slicer, Markdown, GitHub, Mendeley, LaTeX
 - 📚 Researcher Profiles: \
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dD-jFFgAAAAJ&hl=en)
 [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-F36C21?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=25625989400)
@@ -49,31 +62,37 @@ Here are some ideas to get you started:
 
 ## 🚀 Highlight Projects
 
-- [MRIHemorrhageDetection](https://github.com/trajesus/MRIHemorrhageDetection): Deep Learning for automatic hemorrhage segmentation in MRI scans
-- [Suturing_Challenge_Approach](https://github.com/trajesus/Suturing_Challenge_Approach): Team Algoritmi's entry for the OSS Challenge at MICCAI
+| Project | Description | Result |
+|---|---|---|
+| [MRIHemorrhageDetection](https://github.com/trajesus/MRIHemorrhageDetection) | MONAI-based 2D segmentation pipeline for cerebral micro-haemorrhage detection in T2* MRI | Published @ WorldCIST 2023 |
+| [Suturing_Challenge_Approach](https://github.com/trajesus/Suturing_Challenge_Approach) | Surgical AI models (YOLO, U-Net, ResNet50) for MICCAI OSS Challenge | 🥈 2nd (2025 Task 2) |
+| [BraTS 2023/2024 Solutions](https://github.com/andre-fs-ferreira/BraTS_2023_2024_solutions) | Brain tumour segmentation with synthetic data augmentation (contributor) | 🥇 1st (BraTS 2024 Task 1) |
 
 ---
 
 ## 🔬 Current Focus
 - Medical image segmentation with MONAI
-- 3D Slicer development
 - Deep learning for MRI and neuroimaging
 - 3D printing applications in medicine
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Programming & Development
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Medical Imaging & Research
 ![MONAI](https://img.shields.io/badge/MONAI-Healthcare%20Imaging%20AI?style=for-the-badge&color=5B21B6)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FreeSurfer](https://img.shields.io/badge/FreeSurfer-Neuroimaging-1565C0?style=for-the-badge)
 ![3D Slicer](https://img.shields.io/badge/3D%20Slicer-0A84FF?style=for-the-badge)
 ![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-8E24AA?style=for-the-badge)
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-1E88E5?style=for-the-badge)
